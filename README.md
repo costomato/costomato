@@ -9,12 +9,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/15019786/costomato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="costomato" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/15019786/costomato" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="costomato" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Download my apps:</h3>
 <p align="left">
-<a href="https://play.google.com/store/apps/dev?id=7639092298347779320" target="blank"><img align="center" src="https://raw.githubusercontent.com/costomato/costomato/main/google-play.svg" alt="costomato" height="30" width="40" /></a>
+<a href="https://play.google.com/store/apps/dev?id=7639092298347779320" target="_blank"><img align="center" src="https://raw.githubusercontent.com/costomato/costomato/main/google-play.svg" alt="costomato" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Check out my portfolio:</h3>
+<p align="left">
+<a href="https://costomato.github.io" target="_blank">costomato.github.io</a>
 </p>
 
 
