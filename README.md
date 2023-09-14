@@ -1,11 +1,11 @@
 <h1 align="center">Hi there 👋 I'm Kaustubh</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=costomato" alt="costomato" /></a> </p>
 
-- 🔭 I’m currently working on **personal projects**
+- 🔭 Currently working in **Gerontechnology Research Center (R&D, SEDA G-Tech, Taoyuan city, Taiwan)**
 
-- 🤝 I’m looking for help with [Bingo online multiplayer](https://github.com/costomato/Bingo-omp-unity-go)
+- 🧑‍🎓 Intern under Prof. Yeh-Liang Hsu.
 
-- ⚡ Fun fact: **I'm an android developer**
+- 🤝 Please contribute to [Bingo online multiplayer](https://github.com/costomato/Bingo-omp-unity-go)
 
 <h3 align="left">Visit my website:</h3>
 <p align="left">
