@@ -34,7 +34,7 @@
 
 <h2 align="center">📊 GitHub Stats:</h2>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=costomato&theme=dark&show_icons=true&locale=en&layout=compact" alt="costomato" /></p>
+[//]: <> (<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=costomato&theme=dark&show_icons=true&locale=en&layout=compact" alt="costomato" /></p>)
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=costomato&theme=dark" alt="costomato" /></p>
 
