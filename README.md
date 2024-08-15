@@ -9,7 +9,7 @@
 
 <h3 align="left">Visit my website:</h3>
 <p align="left">
-<a href="https://flyprosper.com" target="_blank">flyprosper.com</a>
+<a href="https://flyprosper.com" target="_blank">xorvix</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
