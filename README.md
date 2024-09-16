@@ -1,20 +1,26 @@
 <h1 align="center">Hi there 👋 I'm Kaustubh</h1>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=costomato" alt="costomato" /></a> </p>
 
-- 🔭 Currently working in **Gerontechnology Research Center (R&D, SEDA G-Tech, Taoyuan city, Taiwan)**
+- 🔭 Research intern at **Gerontechnology Research Center (R&D, SEDA G-Tech, Taoyuan city, Taiwan)**, September 2023-February 2024
 
-- 🧑‍🎓 Intern under Prof. Yeh-Liang Hsu.
+- 🧑‍🎓 under Prof. Yeh-Liang Hsu.
 
-- 🤝 Please contribute to [Bingo online multiplayer](https://github.com/costomato/Bingo-omp-unity-go)
+- 🤝 Please contribute to [SyncPlay](https://github.com/costomato/SyncPlay)
 
 <h3 align="left">Visit my website:</h3>
 <p align="left">
 <a href="https://xorvix.com" target="_blank">xorvix.com</a>
+<a href="https://kaustubhdubey.com" target="_blank">kaustubhdubey.com</a>
 </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/15019786/costomato" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="costomato" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Check out my research papers:</h3>
+<p align="left">
+<a href="https://scholar.google.com/citations?user=gJhCNLkAAAAJ&hl=en" target="_blank">scholar.google.com</a>
 </p>
 
 <h3 align="left">Download my apps:</h3>
