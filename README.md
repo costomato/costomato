@@ -5,7 +5,14 @@
 
 - 🧑‍🎓 under Prof. Yeh-Liang Hsu.
 
-- 🤝 Please contribute to [SyncPlay](https://github.com/costomato/SyncPlay)
+
+### Featured Projects
+
+### Smart WiFi-Controlled DOL Motor Starter
+I developed a smart device that transforms an old DOL motor starter into a WiFi-controlled unit. My work on this project was featured on the [Adafruit Blog](https://blog.adafruit.com/2024/08/31/convert-an-old-dol-motor-pump-starter-to-a-smart-wifi-controlled-gadget-using-adafruit-io/), showcasing its potential for IoT applications in everyday devices.
+
+You can read the detailed tutorial on [Instructables](https://www.instructables.com/Easiest-and-Cheapest-Way-to-Convert-an-Old-DOL-Mot/).
+
 
 <h3 align="left">Visit my website:</h3>
 <p align="left">
