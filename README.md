@@ -2,7 +2,7 @@
 <h2 align="center">MS CS @ ASU</h2>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=costomato" alt="costomato" /></a> </p>
 
-- 📖 Master of Science in Computer Science @ Arizona State University
+- 📖 Master of Science in Computer Science @ Arizona State University, Tempe, AZ, USA
 
 - 🔭 Prev @ Research intern at **Gerontechnology Research Center (R&D, SEDA G-Tech, Taoyuan city, Taiwan)**, September 2023-February 2024, under Professor Yeh-Liang Hsu
 
