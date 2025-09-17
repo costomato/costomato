@@ -88,7 +88,7 @@
 
 ## 📚 References
 - **Professor Yeh-Liang Hsu**
-  - Distinguished Professor, Yuan Ze University, Taiwan
+  - Distinguished Professor, Department of Mechanical Engineering, Yuan Ze University, Taiwan
   - Founder – Gerontechnology Research Center, SEDA G-Tech, *Gerontechnology* Journal
   - M.S. & Ph.D. in Mechanical Engineering, Stanford University  
 
