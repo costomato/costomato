@@ -1,6 +1,6 @@
 <h1 align="center">Hi there 👋 I'm Kaustubh</h1>
 <p align="center">
-  Tempe, AZ • <a href="mailto:knola155@asu.edu">knola155@asu.edu</a> • 
+  Tempe, AZ, USA • <a href="mailto:knola155@asu.edu">knola155@asu.edu</a> • 
   <a href="https://www.linkedin.com/in/costomato">LinkedIn</a> • 
   <a href="https://kaustubhdubey.com">Portfolio</a>
 </p>
