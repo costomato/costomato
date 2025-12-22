@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/costomato">LinkedIn</a> • 
   <a href="https://kaustubhdubey.com">Portfolio</a>
 </p>
-<h3 align="center">MS CS @ Arizona State University • SWE | IoT | AI/ML</h3>
+<h3 align="center">MS CS @ Arizona State University • SWE | Cybersecurity | IoT | AI/ML</h3>
 
 ---
 
