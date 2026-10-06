@@ -4,30 +4,40 @@
   <a href="https://www.linkedin.com/in/costomato">LinkedIn</a> • 
   <a href="https://kaustubhdubey.com">Portfolio</a>
 </p>
-<h3 align="center">MS CS @ Arizona State University • SWE | Cybersecurity | IoT | AI/ML</h3>
+<h3 align="center">MS CS @ Arizona State University • SWE | Cybersecurity</h3>
 
 ---
 
 ## About Me
-- Master’s student in Computer Science @ **Arizona State University** (2025–2027)  
-- Interested in **IoT, AI/ML, and Cyber Security**  
-- Strong background in **Data Structures & Algorithms** and hands-on SWE experience  
+- MS Computer Science student @ **Arizona State University** (2025–2027), GPA: **4.0/4.0**
+- Software engineer with experience across **mobile, full-stack, AI/ML, cloud, cybersecurity, and IoT**
+- Built production software at **ASSA ABLOY (Kwikset)**, **Truck It App**, and **Gerontechnology Research Center, Taiwan**
+- Published **5 Android apps with 15,000+ combined downloads** on Google Play [LINK](https://play.google.com/store/apps/dev?id=7639092298347779320)
+- Author of **2 peer-reviewed publications** in IoT security and healthcare technology
 - Portfolio: [kaustubhdubey.com](https://kaustubhdubey.com)
-- Published 5 apps on Google Play Store [LINK](https://play.google.com/store/apps/dev?id=7639092298347779320)
 
 ---
 
 ## 🛠️ Skills
-**Languages** → C, C++, Java, Python, Go, JavaScript, PhP, Kotlin, Swift  
-**Frameworks/Tools** → Spring Boot, React, Express, Flask, Docker, Kubernetes, Git, REST, Android Studio, XCode  
-**Cloud & Data** → AWS, GCP, SQL, NoSQL, MongoDB, Pandas, NumPy  
-**Testing / CI** → pytest, JUnit, GitHub Actions, Jenkins  
-**Core CS** → Data Structures & Algorithms, Object-Oriented Design, Microservices, Agile  
-**Other** → WebSockets, MQTT, Stripe APIs, RESTful APIs, Microservices  
+**Languages** → Kotlin, Swift, Go, Python, Java, C/C++, JavaScript, TypeScript, PHP, SQL  
+**Mobile** → Android, Jetpack Compose, SwiftUI, UIKit, Flutter, BLE  
+**Web & Backend** → React, Next.js, Node.js, Laravel, Spring Boot, REST APIs, WebSockets  
+**Cloud & DevOps** → AWS, GCP, Azure, Docker, Kubernetes, GitHub Actions, CI/CD  
+**AI/ML** → PyTorch, TensorFlow, scikit-learn, Hugging Face, Pandas, NumPy  
+**Security & IoT** → OWASP, Burp Suite, mitmproxy, MQTT, ESP8266, Cryptography 
 
 ---
 
 ## 💼 Experience
+**Arizona State University — Ira A. Fulton Schools of Engineering** — Graduate Service Assistant (09/2026–Present)  
+- Supportign course instruction through grading, student assistance, and instructional activities.
+- Collaborating with faculty on assignments, assessments, solutions, and course content.
+
+**ASSA ABLOY (Kwikset)** — Mobile Developer Intern (06/2026–08/2026)  
+- Built production **Android/Kotlin and iOS/Swift** features for the Kwikset smart-lock app serving **2M+ users**.
+- Diagnosed and fixed a 5-year production lock-control bug affecting Android and iOS smart-lock workflows.
+- Built structured mobile logging and an **AI-assisted debugging platform** for production issue diagnosis.
+
 **Truck It App LLC** — Independent Contractor Fullstack SDE (03/2024–05/2025)  
 - Built and shipped **4 native apps** (Kotlin/Swift + PHP Laravel backend).  
 - Implemented **Stripe payments**, improving reliability and UX.  
@@ -47,7 +57,8 @@
 ---
 
 ## 🚀 Selected Projects
-- **SyncPlay** → Open source Kotlin full-stack Android app that uses WebSockets to synchronize video media across multiple devices in a room. 9k+ downloads and 5k+ active users
+- **SyncPlay** → Open source Kotlin full-stack Android app that uses WebSockets to synchronize video media across multiple devices in a room. 10k+ downloads and 5k+ active users
+- **JobSmith** → AI-powered Next.js/TypeScript platform and browser extension for tailoring resumes to job descriptions using ATS analysis and LLMs.
 - **Tuition Management System** → Java-based Android app designed to help tuition teachers manage their batches and fees efficiently. 
 - **Smart IoT Motor Pump Controller** → IoT-enabled retrofit of a legacy DOL motor starter using NodeMCU, current sensing (ACS712), safety snubber circuit, tank-full auto-shutdown, and Alexa + Adafruit IO control.
 - **Intercepting NodeMCU Using MITM Attack** → Demonstration of a Man-in-the-Middle (MITM) attack on a NodeMCU ESP8266 microcontroller using MITMproxy and ARP spoofing. Successfully intercepted data sent to ThingSpeak.
